@@ -19,3 +19,6 @@ Las tecnologías que utilicé son:
 
 ## Objetvio del proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
+
+## Link a demo
+En el siguiente lin puedes ver mi proyecto terminado: [Relaxbox(https://flexboxforest.vercel.app/)
