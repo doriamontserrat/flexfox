@@ -9,15 +9,13 @@
 ### 2. Qué construí
 En este proyecto me enfoqué en construir una pagina web de un bosque para reljarte.
 Contiene las siguientes secciones:
-- *Header:* Sección que involucra la foto de mi perfil, iconos y un menú con enlaces externos.
+- *Header:* Sección del titulo del bsoque.
 
-- *Main:* Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones.
-
-- *Footer:* Sección que incluye enlaces externos al final de la página.
+- *Main:* Sección de boton para llevar al usuario con click a un video de youtube relajante.
 
 Las tecnologías que utilicé son:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 ## Objetvio del proyecto
-Aprender a utilizar las etiquetas estándar de HTML5 y CSS3
+Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
